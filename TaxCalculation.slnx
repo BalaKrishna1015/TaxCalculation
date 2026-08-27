@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TaxCalculation.Tests/TaxCalculation.Tests.csproj" />
+  <Project Path="TaxCalculation/TaxCalculation.csproj" />
+</Solution>
